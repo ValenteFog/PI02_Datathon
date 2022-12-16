@@ -12,7 +12,7 @@
 
 ## **Intro**​
 
-¡Bienvenidos a mi segundo proyecto individual! Mi nombre es Juan Valentín Fogliatti y en este repositorio encontrarán la resolución a un problema de clasificación, que intenta determinar si la estadía de un paciente en un hospital será corta (menor o igual a 8 días) o será prolongada (más de 10 días).
+¡Bienvenidos a mi segundo proyecto individual! Mi nombre es Juan Valentín Fogliatti y en este repositorio encontrarán la resolución a un problema de clasificación, que intenta determinar si la estadía de un paciente en un hospital será corta (menor o igual a 8 días) o será prolongada (más de 8 días).
 
 Para ello realizaremos un análisis exploratorio sobre los datasets con los que contamos, seguiremos por transformar lo que consideremos necesario, y ya con nuestros datos procesados pasaremos a crear un modelo de Machine Learning que haga las predicciones que permitan clasificar los dos tipos de estadías de los pacientes. 
 ​<hr>
@@ -22,7 +22,8 @@ Para trabajar este proyecto hemos creado este repositorio que está compuesto po
 - Una carpeta Datasets que contiene dos archivos 'csv' que serán nuestros datasets para entrenar y testear el modelo.
 - Un archivo de jupyter notebook con todos los procesos realizados sobre los datasets.
 - Un archivo 'csv' que cuenta con la predicción sobre el dataset 'hospitalizaciones_test.csv'.
-- Este readme.
+- Un archivo '.pkl' donde hemos almacenado el pipeline del modelo.
+- Este Readme.
 <hr>
 
 ## **Tecnologias utilizadas**
